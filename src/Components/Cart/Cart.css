@@ -1,0 +1,34 @@
+.cart-infos {
+    margin-top: 50px;
+}
+
+.cart-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.cart-btn:hover {
+    background-color: coral;
+}
+
+.btn-container {
+    background-color: rgb(165, 243, 252);
+    border: solid cadetblue;
+    padding: 20px 0;
+    border-radius: 5%;
+}
+
+.result-container {
+    background-color: rgb(165, 243, 252);
+    border: solid cadetblue;
+    padding: 20px 0;
+    border-radius: 5%;
+    margin-top: 20px;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Pushups",
+        "img": "https://phantom-marca.unidadeditorial.es/efa9740df47cff7f9466ea78fd720074/crop/0x93/899x599/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/19/16426036798831.jpg",
+        "time": 30,
+        "quantity": 0
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Lunges",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Airman_performing_lunge.jpg",
+        "time": 10,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Squats",
+        "img": "https://media.istockphoto.com/photos/athletic-african-american-guy-doing-squats-at-laptop-at-home-picture-id1322879451?b=1&k=20&m=1322879451&s=170667a&w=0&h=CGVsuyE4iM9XQ9CZfz3OHJ996Qu9acdObzQ0eAlkQmg=",
+        "time": 10,
+        "quantity": 0
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Side Planks",
+        "img": "https://barbend.com/wp-content/uploads/2020/11/shutterstock_1105059614.jpg",
+        "time": 10,
+        "quantity": 0
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Situp",
+        "img": "https://images.news18.com/ibnlive/uploads/2022/01/crunches-16432605064x3.jpg",
+        "time": 10,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Plank",
+        "img": "https://barbend.com/wp-content/uploads/2019/01/BarBend-Feature-Image-1200-x-675-2021-06-02T165505.056.jpg",
+        "time": 10,
+        "quantity": 0
+    }
+]

@@ -1,0 +1,16 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.activity-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+    margin: 50px;
+}
+
+.cart-container {
+    /* background-color: aqua; */
+    padding: 0 20px
+}
